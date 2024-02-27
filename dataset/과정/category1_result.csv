@@ -1,0 +1,4 @@
+,pk,model,name,thumbnail,gender,top_notes,heart_notes,base_notes,seasons,availability,brand,categories,price
+4624,26143106,perfumes.perfume,Grace,26143106.jpg,0,"[96, 388, 515, 530, 562, 660, 715]","[178, 229, 473, 512, 639, 646, 708, 927]","[7, 903, 920]",[3],True,452,"[3, 6]",162.19
+3487,26137943,perfumes.perfume,Orange Spice,26137943.jpg,0,"[530, 562, 639, 660, 883]","[224, 259, 660, 661, 715, 725]","[28, 191, 652, 808, 903, 924]","[3, 4]",True,2414,[6],10.0
+8184,26157731,perfumes.perfume,Yuzu (Japanese citrus fruit),26157731.jpg,0,"[96, 515, 660, 896]","[388, 530, 971]","[562, 785]","[1, 2]",True,1427,[1],11.99

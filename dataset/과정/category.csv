@@ -1,0 +1,13 @@
+pk,model,fields
+1,perfumes.category,{'name': 'citrus_smells'}
+2,perfumes.category,{'name': 'fruits_vegetables_and_nuts'}
+3,perfumes.category,{'name': 'flowers'}
+4,perfumes.category,{'name': 'white_flowers'}
+5,perfumes.category,{'name': 'greens_herbs_and_fougeres'}
+6,perfumes.category,{'name': 'spices'}
+7,perfumes.category,{'name': 'sweets_and_gourmand_smells'}
+8,perfumes.category,{'name': 'woods_and_mosses'}
+9,perfumes.category,{'name': 'resins_and_balsams'}
+10,perfumes.category,{'name': 'musk_amber_animalic_smells'}
+11,perfumes.category,{'name': 'beverages'}
+12,perfumes.category,{'name': 'netural_and_synthetic_popular_and_weird'}

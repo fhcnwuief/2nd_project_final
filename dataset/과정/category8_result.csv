@@ -1,0 +1,4 @@
+,pk,model,name,thumbnail,gender,top_notes,heart_notes,base_notes,seasons,availability,brand,categories,price
+4369,26141692,perfumes.perfume,Extrait de Cedrat,26141692.jpg,0,"[82, 96, 883]","[193, 542, 692]","[7, 193, 649, 808, 896]","[3, 4]",True,240,[8],221.0
+4737,26143465,perfumes.perfume,Bois d'Oud,26143465.jpg,0,"[7, 96]","[193, 800]","[7, 193, 692, 900]","[3, 4]",True,841,"[6, 8]",9.99
+480,26121714,perfumes.perfume,Xeryus Rouge,26121714.jpg,1,"[152, 497, 886]","[193, 708]","[193, 808]","[3, 4]",True,1200,"[6, 8]",54.02

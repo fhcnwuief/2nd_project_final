@@ -1,0 +1,974 @@
+pk,model,name,kor_name
+1,perfumes.note,absinthe,압생트
+2,perfumes.note,acacia,아카시아
+3,perfumes.note,acai berry,아사이베리
+4,perfumes.note,acerola,아세로라
+5,perfumes.note,acerola blossom,아세로라 블라썸
+6,perfumes.note,acetyl furan,아세틸 푸란
+7,perfumes.note,agarwood (oud),아갈우드
+8,perfumes.note,agave,아게이브
+9,perfumes.note,agave nectar,아게이브 넥타르
+10,perfumes.note,aglaia,아글라이아
+11,perfumes.note,akigalawood,아키갈라우드
+12,perfumes.note,aldehydes,알데하이드
+13,perfumes.note,alder,알더
+14,perfumes.note,algae,알게
+15,perfumes.note,allspice,올스파이스
+16,perfumes.note,almond,아몬드
+17,perfumes.note,almond blossom,아몬드 블라썸
+18,perfumes.note,almond tree,아몬드 트리
+19,perfumes.note,aloe vera,알로에 베라
+20,perfumes.note,aluminum,알루미늄
+21,perfumes.note,alumroot,앨럼루트
+22,perfumes.note,alyssum,알리섬
+23,perfumes.note,amaranth,아마란스
+24,perfumes.note,amaretto,아마레토
+25,perfumes.note,amarillys,아마릴리스
+26,perfumes.note,amber,엠버
+27,perfumes.note,amber xtreme,엠버 엑스트림
+28,perfumes.note,ambergris,엠버그리스
+29,perfumes.note,ambertonic (iff),엠버토닉
+30,perfumes.note,amberwood,엠버우드
+31,perfumes.note,ambrarome,엠브러로움
+32,perfumes.note,ambretone,엠브레톤
+33,perfumes.note,ambrette (musk mallow),엠브레트
+34,perfumes.note,ambrettolide,앰브레톨라이드
+35,perfumes.note,ambrocenide (symrise),앰브로케니드
+36,perfumes.note,ambroxan,앰브락산
+37,perfumes.note,ammophila (beach grass),애모필러
+38,perfumes.note,amyl salicylate,애밀 샐슬럿
+39,perfumes.note,amyris,애미리스
+40,perfumes.note,anemone,아네모네
+41,perfumes.note,angel's trumpet,앤젤스트럼펫
+42,perfumes.note,angelica,안젤리카
+43,perfumes.note,animal notes,에니멀 노츠
+44,perfumes.note,anise,애너스
+45,perfumes.note,apple,애플
+46,perfumes.note,apple blossom,애플 플라썸
+47,perfumes.note,apple juice,애플 주스
+48,perfumes.note,apple mint,애플 민트
+49,perfumes.note,apple pulp,애플 펄프
+50,perfumes.note,apple tree,애플 트리
+51,perfumes.note,apricot,애프리콧
+52,perfumes.note,apricot blossom,애프리콧 플라썸
+53,perfumes.note,aquozone,아쿠오존
+54,perfumes.note,araucaria,아라우카리아
+55,perfumes.note,"arbutus (madrona, bearberry tree)","알버투스 (마드로나, 베어베리 트리)"
+56,perfumes.note,arctic bramble,아틱 브렘블
+57,perfumes.note,argan,아르간
+58,perfumes.note,argan tree,아르간 트리
+59,perfumes.note,arnica,아르니카
+60,perfumes.note,artemisia,아르테미시아
+61,perfumes.note,arum lily,아룸 릴리
+62,perfumes.note,asafoetida,아사포에티다
+63,perfumes.note,ash,에쉬
+64,perfumes.note,ashoka flower,에쇼카 플라워
+65,perfumes.note,asparagus,아스파라거스
+66,perfumes.note,aspen,아스펜
+67,perfumes.note,asphalt,애스폴트
+68,perfumes.note,aspic,애스픽
+69,perfumes.note,avocado,아보카도
+70,perfumes.note,azolla (water fern),아졸라 (워터 펀)
+71,perfumes.note,bacon,베이컨
+72,perfumes.note,baileys irish cream,베일리즈 아이리시 크림
+73,perfumes.note,balsamic vinegar,발사믹 식초
+74,perfumes.note,bamboo,대나무
+75,perfumes.note,banana,바나나
+76,perfumes.note,banana flower,바나나 플라워
+77,perfumes.note,banana leaf,바나나 리프
+78,perfumes.note,baobab,바오밥
+79,perfumes.note,barberry,바베리
+80,perfumes.note,bark,바크
+81,perfumes.note,barley,발리
+82,perfumes.note,basil,바질
+83,perfumes.note,bay essence,베이 에센스
+84,perfumes.note,bay leaf,베이 리프
+85,perfumes.note,bbq,바베큐
+86,perfumes.note,bearberry,베어베리
+87,perfumes.note,beech,비치
+88,perfumes.note,beerale,비어에일
+89,perfumes.note,beeswax,비즈왁스
+90,perfumes.note,beetroot,비트루트
+91,perfumes.note,belambra tree,벨람브라 트리
+92,perfumes.note,belladona,벨라도나
+93,perfumes.note,bellflower,벨플라워
+94,perfumes.note,bellini,벨리니
+95,perfumes.note,benzoin,벤조인
+96,perfumes.note,bergamot,베르가못
+97,perfumes.note,bergamot blossom,베르가못 블라썸
+98,perfumes.note,birch,버치
+99,perfumes.note,birch tar,버치 타르
+100,perfumes.note,biscuit,비스킷
+101,perfumes.note,bitter orange,비터 오렌지
+102,perfumes.note,black currant,블랙 커렌트
+103,perfumes.note,black currant blossom,블랙 커렌트 블라썸
+104,perfumes.note,black currant leaf,블랙 커렌트 리프
+105,perfumes.note,black hemlock or tsuga,블랙 헤믈락 (수가)
+106,perfumes.note,black locust,블랙 록커스트
+107,perfumes.note,black spruce,블랙 스프루스
+108,perfumes.note,blackberry,블랙베리
+109,perfumes.note,blackberry blossom,블랙베리 블라썸
+110,perfumes.note,blackberry leaf,블랙베리 리프
+111,perfumes.note,blackthorn,블랙토른
+112,perfumes.note,blackwood,블랙우드
+113,perfumes.note,blood,블러드
+114,perfumes.note,blood orange,블러드 오렌지
+115,perfumes.note,blue lilies,블루 릴리즈
+116,perfumes.note,blue margarita,블루 마르가리타
+117,perfumes.note,blue poppy,블루 포피
+118,perfumes.note,blueberry,블루베리
+119,perfumes.note,boisiris,보이사이러스
+120,perfumes.note,borage,보어러지
+121,perfumes.note,borneol,보어네올
+122,perfumes.note,boronia,볼로니아
+123,perfumes.note,bougainvillea,부게인빌리어
+124,perfumes.note,bourbon whiskey,버본 위스키
+125,perfumes.note,boysenberry,보이센베리
+126,perfumes.note,bran,브란
+127,perfumes.note,brazil nut,브라질 넛
+128,perfumes.note,brazilian rosewood,브라질리안 로즈우드
+129,perfumes.note,bread,브레드
+130,perfumes.note,bread flower,브레드 플라워
+131,perfumes.note,breu-branco,브루-브란코
+132,perfumes.note,brick,브릭
+133,perfumes.note,brioche,브리오슈
+134,perfumes.note,bromelia,브로멜리아
+135,perfumes.note,brown scotch tape,브라운 스카치 테이프
+136,perfumes.note,brown sugar,브라운 슈거
+137,perfumes.note,bubble gum,버블 검
+138,perfumes.note,buchu or agathosma,바쿠 (아게토스마)
+139,perfumes.note,buddha wood,부다 우드
+140,perfumes.note,buddleia,바덜리아
+141,perfumes.note,bulrush,불러쉬
+142,perfumes.note,burdock,버덕
+143,perfumes.note,burnt match,번트 메치
+144,perfumes.note,bushman candle,부시맨 캔들
+145,perfumes.note,butomus umbellatus,부토머스 엄벨라터스
+146,perfumes.note,butter,버터
+147,perfumes.note,buttercup,버터컵
+148,perfumes.note,butterscotch,버터스카치
+149,perfumes.note,buxus,벅서스
+150,perfumes.note,cabreuva,카브루버
+151,perfumes.note,cacao pod,카카오 팟
+152,perfumes.note,cactus,켓터스
+153,perfumes.note,cade oil,케이드 오일
+154,perfumes.note,caipirinha,카이피리냐
+155,perfumes.note,calamansi,깔라만시
+156,perfumes.note,calamus,칼라머스
+157,perfumes.note,calone,칼로우니
+158,perfumes.note,calycanthus,캘리칸더스
+159,perfumes.note,calypsone,칼립손
+160,perfumes.note,cambodian oud,캄보디안 오드
+161,perfumes.note,camellia,카멜리아
+162,perfumes.note,campari,캠파리
+163,perfumes.note,camphor,캠퍼
+164,perfumes.note,canadian balsam,캐네디안 발쌈
+165,perfumes.note,candied fruits,캔디드 프루츠
+166,perfumes.note,candied ginger,캔디드 진저
+167,perfumes.note,candied orange,캔디드 오렌지
+168,perfumes.note,candies,캔디스
+169,perfumes.note,canele,케널
+170,perfumes.note,cannabis,캐너비스
+171,perfumes.note,cannonball flower,캐논벨 플라워
+172,perfumes.note,caoutchouc,케이우추시
+173,perfumes.note,cappuccino,카푸치노
+174,perfumes.note,carambola (star fruit),카람볼라 (스타 프루츠)
+175,perfumes.note,carambola blossom,카람볼라 블라썸
+176,perfumes.note,caramel,카라멜
+177,perfumes.note,caraway,카라웨이
+178,perfumes.note,cardamom,카르다맘
+179,perfumes.note,carissa,카리사
+180,perfumes.note,carnation,카네이션
+181,perfumes.note,carnation leaves,카네이션 리브스
+182,perfumes.note,carob tree,캐롭 트리
+183,perfumes.note,carrot,캐롯
+184,perfumes.note,carrot seeds,캐롯 시드
+185,perfumes.note,cascalone,케스칼로네
+186,perfumes.note,cashew,케슈
+187,perfumes.note,cashmeran,캐즈미런
+188,perfumes.note,cashmir wood,캐시미어 우드
+189,perfumes.note,cassia,카시아
+190,perfumes.note,cassowary fruit,캐소워리 프루츠
+191,perfumes.note,castoreum,케스토리움
+192,perfumes.note,caviar,캐비어
+193,perfumes.note,cedar,시더
+194,perfumes.note,celery,셀러리
+195,perfumes.note,celery seeds,셀러리 시즈
+196,perfumes.note,celosia,셀로시아
+197,perfumes.note,centella asiatica,센텔라 아시아티카
+198,perfumes.note,cepes,세페이즈
+199,perfumes.note,cetalox,세타록스
+200,perfumes.note,chalood bark,칼루드 바크
+201,perfumes.note,chamomile,카모마일
+202,perfumes.note,champaca,샴파카
+203,perfumes.note,champagne,샴페인
+204,perfumes.note,chayote,체이엇
+205,perfumes.note,cheese,치즈
+206,perfumes.note,cherimoya,체리모어
+207,perfumes.note,cherry,체리
+208,perfumes.note,cherry blossom,체리 블라썸
+209,perfumes.note,chestnut,케슈넛
+210,perfumes.note,chimonanthus or wintersweet,치모넌써즈 (윈터스위츠)
+211,perfumes.note,china rose,차이나 로즈
+212,perfumes.note,chinotto,치노토
+213,perfumes.note,chinotto,치노토
+214,perfumes.note,chinotto blossom,치노토 블라썸
+215,perfumes.note,chive,차이브
+216,perfumes.note,chocolate flower,초콜렛 플라워
+217,perfumes.note,choya loban,초야 로반
+218,perfumes.note,choya nakh,초야 나크
+219,perfumes.note,choya ral,초야 랄
+220,perfumes.note,christmas tree or flame tree,크리스마스 트리 (플레임 프리)
+221,perfumes.note,chrysanthemum,크리센티멈
+222,perfumes.note,chutney,첫니
+223,perfumes.note,cilantro,실란트로
+224,perfumes.note,cinnamon,시나몬
+225,perfumes.note,cinnamon leaf,시나몬 리프
+226,perfumes.note,citron,시트론
+227,perfumes.note,citruses,시트러스
+228,perfumes.note,civet,시벳
+229,perfumes.note,clary sage,클라리 세이지
+230,perfumes.note,clay,클레이
+231,perfumes.note,clearwood,클리어우드
+232,perfumes.note,clematis,클레멘티스
+233,perfumes.note,clementine,클레멘타인
+234,perfumes.note,cloudberry,클라우드베리
+235,perfumes.note,clove leaf,클로브 리프
+236,perfumes.note,clover,클로버
+237,perfumes.note,cloves,클로브스
+238,perfumes.note,co2 extracts,co2 추출물
+239,perfumes.note,coal,코올
+240,perfumes.note,coal tar,코올 타르
+241,perfumes.note,cobblestone,코벨스톤
+242,perfumes.note,coca,코카
+243,perfumes.note,coca-cola,코카콜라
+244,perfumes.note,cocobolo,코코볼로
+245,perfumes.note,coconut,코코넛
+246,perfumes.note,coconut pie,코코넛 파이
+247,perfumes.note,coffee,커피
+248,perfumes.note,coffee blossom,커피 블라썸
+249,perfumes.note,coffee tree,커피 트리
+250,perfumes.note,cognac,코냑
+251,perfumes.note,cognac,코냑
+252,perfumes.note,concrete,콘크리트
+253,perfumes.note,cookie,쿠키
+254,perfumes.note,copahu balm,코파후 밤
+255,perfumes.note,copaiba balm,코파이바 밤
+256,perfumes.note,copal,코팔
+257,perfumes.note,coral reef,코랄 리프
+258,perfumes.note,coranol,코라놀
+259,perfumes.note,coriander,코리안더
+260,perfumes.note,cork,코르크
+261,perfumes.note,cork,코르크
+262,perfumes.note,corn silk,콘 실크
+263,perfumes.note,"cornflower, sultan seeds","콘플라워, 술탄 시즈"
+264,perfumes.note,cosmone,코즈먼
+265,perfumes.note,cosmopolitan cocktail,코스모폴리탄 칵테일
+266,perfumes.note,cosmos flower,코스모스 플라워
+267,perfumes.note,costus,코스터스
+268,perfumes.note,cotton candy,코튼 캔디
+269,perfumes.note,cotton flower,코튼 플라워
+270,perfumes.note,cottonwood (poplar),코튼우드 (포플러)
+271,perfumes.note,coumarin,쿠머린
+272,perfumes.note,cranberry,크렌베리
+273,perfumes.note,cream,크림
+274,perfumes.note,cream soda,크림 소다
+275,perfumes.note,creme brulee,크림 브룰리
+276,perfumes.note,creosote bush,크레오소트 부쉬
+277,perfumes.note,crinum lily,크리넘 릴리
+278,perfumes.note,crithmum,크리멈
+279,perfumes.note,croissant,크로이산트
+280,perfumes.note,cubeb or tailed pepper,쿠벱 (테일드 페퍼)
+281,perfumes.note,cucumber,큐컴버
+282,perfumes.note,cumin,쿠민
+283,perfumes.note,cupcake,컵케이크
+284,perfumes.note,"cupuacu, cupuassu, copoasu","커퍼쿠, 쿠푸아수, 코포아수"
+285,perfumes.note,curacao,큐라소
+286,perfumes.note,curcuma (turmeric),컬쿠마 (털메릭)
+287,perfumes.note,currant leaf and bud,커런트 리프 앤 버드
+288,perfumes.note,curry tree,커리 트리
+289,perfumes.note,custard,커스타드
+290,perfumes.note,cyclamen,사이클라멘
+291,perfumes.note,cyperus scariosus,사이퍼러스 스케리오서스
+292,perfumes.note,cypress,사이프레스
+293,perfumes.note,cypriol oil or nagarmotha,사이프리올 오일 (나가아머써)
+294,perfumes.note,dahlia,달리아
+295,perfumes.note,daim,데임
+296,perfumes.note,daiquiri,데커리
+297,perfumes.note,daisy,데이지
+298,perfumes.note,dandelion,덴덜라이언
+299,perfumes.note,daphne,다프네
+300,perfumes.note,dark chocolate,다크 초콜렛
+301,perfumes.note,dates,데이츠
+302,perfumes.note,datura,다투라
+303,perfumes.note,davana,다바나
+304,perfumes.note,deadnettle,데드네틀
+305,perfumes.note,delonix,델로닉스
+306,perfumes.note,desert rose,데저트 로즈
+307,perfumes.note,dew drop,듀 드롭
+308,perfumes.note,dewberry,듀베리
+309,perfumes.note,dianthus,디안서스
+310,perfumes.note,dill,딜
+311,perfumes.note,dodecanal,도덱케널
+312,perfumes.note,dove tree,도브 트리
+313,perfumes.note,dragon blood resin,드레곤 블러드 레전
+314,perfumes.note,dried apple crisp,드라이드 애플 크리스프
+315,perfumes.note,dried apricot,드라이드 애프리콧
+316,perfumes.note,dried fallen leaves,드라이드 폴른 리브즈
+317,perfumes.note,dried fruits,드라이드 프루츠
+318,perfumes.note,dried rose,드라이드 로즈
+319,perfumes.note,driftwood,드리프트우드
+320,perfumes.note,dry wood,드라이 우드
+321,perfumes.note,dulce de leche,두셀 데 리체
+322,perfumes.note,dyer's greenweed,다이어즈 그린위드
+323,perfumes.note,earl grey tea,얼그레이 티
+324,perfumes.note,earth tincture,어스 틴척
+325,perfumes.note,earthy notes,어시 노츠
+326,perfumes.note,eau de vie,에우 데 비에
+327,perfumes.note,ebony tree,엔보니 트리
+328,perfumes.note,edelweiss,에델바이스
+329,perfumes.note,eglantine rose,에글런타인 로즈
+330,perfumes.note,elderflower,엘덜플라워
+331,perfumes.note,elemi,일레미
+332,perfumes.note,ember,엠버
+333,perfumes.note,encian,엔시언
+334,perfumes.note,english marigold,잉글리시 메리골드
+335,perfumes.note,ethyl maltol,에틸 말톨
+336,perfumes.note,eucalyptus,유칼립투스
+337,perfumes.note,eugenol,유제놀
+338,perfumes.note,fabric,페브릭
+339,perfumes.note,fennel,펜넬
+340,perfumes.note,fenugreek,페누그릭
+341,perfumes.note,fern,페른
+342,perfumes.note,field scabious,필드 스케비어스
+343,perfumes.note,fig,피그
+344,perfumes.note,fig leaf,피그 리프
+345,perfumes.note,fig tree,피그 트리
+346,perfumes.note,finger lime,핑거 라임
+347,perfumes.note,fir,퍼
+348,perfumes.note,fire,파이어
+349,perfumes.note,fish,피쉬
+350,perfumes.note,flamingo flower (anthurium),플라밍고 플라워 (엔쑤리엄)
+351,perfumes.note,flax,플렉스
+352,perfumes.note,flint,플린트
+353,perfumes.note,floral notes,플로럴 노트
+354,perfumes.note,forest fruits,포레스트 프루츠
+355,perfumes.note,forget me not,폴겟 미 낫
+356,perfumes.note,fragonia,프라고니아
+357,perfumes.note,frangipani,프렌지파니
+358,perfumes.note,freesia,프리지아
+359,perfumes.note,french pastries,프렌치 페스츠리즈
+360,perfumes.note,frosted berries,프로스티드 베리즈
+361,perfumes.note,frosting [glace],프로스팅 [글레이스]
+362,perfumes.note,fruity notes,프루티 노트
+363,perfumes.note,fuchsia,퓨시아
+364,perfumes.note,galanga,갈랑가
+365,perfumes.note,galaxolide,갤럭설라이드
+366,perfumes.note,galbanum,갈바늄
+367,perfumes.note,gardenia,가디니아
+368,perfumes.note,gasoline,가솔린
+369,perfumes.note,genet,제닛
+370,perfumes.note,genmaicha,젠메이처
+371,perfumes.note,geosmin,지오스민
+372,perfumes.note,geranium,제레니움
+373,perfumes.note,gerbera,거베라
+374,perfumes.note,gianduia,지안두이어
+375,perfumes.note,gin,진
+376,perfumes.note,ginger,진저
+377,perfumes.note,gingerbread,진저브레드
+378,perfumes.note,ginkgo,긴커고
+379,perfumes.note,ginseng,진생
+380,perfumes.note,gladiolus,글래디올러스
+381,perfumes.note,goat hair,고트 헤어
+382,perfumes.note,goji berries,고지 베리즈
+383,perfumes.note,goldenrod,골든로드
+384,perfumes.note,gooseberry,구스베지
+385,perfumes.note,gorse,고어스
+386,perfumes.note,grape leaves,그레이프 리브즈
+387,perfumes.note,grape seed,그레이프 시드
+388,perfumes.note,grapefruit,그레이프프룻
+389,perfumes.note,grapefruit blossom,그레이프프룻 블라썸
+390,perfumes.note,grapes,그레이프
+391,perfumes.note,graphite,그래파이트
+392,perfumes.note,grass,그래스
+393,perfumes.note,grass tree,그래스 트리
+394,perfumes.note,green nard,그린 나드
+395,perfumes.note,green notes,그린 노트
+396,perfumes.note,green pepper,그린 페퍼
+397,perfumes.note,green sap,그린 삽
+398,perfumes.note,green tea flower,그린 티 플라워
+399,perfumes.note,greengage,그린게이지
+400,perfumes.note,grenadine,그레네딘
+401,perfumes.note,gromwell,그롬웰
+402,perfumes.note,ground cherry,그라운드 체리
+403,perfumes.note,guaiac wood,과이악 우드
+404,perfumes.note,guao or maiden plum,가우 (메이덴 플럼)
+405,perfumes.note,guarana,게레나
+406,perfumes.note,guava,구아바
+407,perfumes.note,guava blossom,구아바 블라썸
+408,perfumes.note,gunpowder,건파우더
+409,perfumes.note,gurjun balsam,거전 발삼
+410,perfumes.note,halva,할바
+411,perfumes.note,hassaku,하사쿠
+412,perfumes.note,hatkora lemon,핫코라 레몬
+413,perfumes.note,hawthorn,호쏜
+414,perfumes.note,hay,헤이
+415,perfumes.note,hazel blossom,헤이즐 블라썸
+416,perfumes.note,hazelnut,헤이즐넛
+417,perfumes.note,hazelnut cocoa spread,헤이즐넛 코코아 스프레드
+418,perfumes.note,head space waterfall,헤드 스페이스 워터폴
+419,perfumes.note,heather,헤더
+420,perfumes.note,hedione,헤디오니
+421,perfumes.note,heliotrope,힐리오트롭
+422,perfumes.note,hellabore flower,헬러보어 플라워
+423,perfumes.note,hemlock,해믈락
+424,perfumes.note,henna,헨나
+425,perfumes.note,hi-fi,하이-파이
+426,perfumes.note,hibiscus,히비스커스
+427,perfumes.note,hina,히나
+428,perfumes.note,hinoki wood,히노키 우드
+429,perfumes.note,ho wood,호 우드
+430,perfumes.note,hoary stock,호리 스톡
+431,perfumes.note,holly flower,홀리 플라워
+432,perfumes.note,hollyhock,홀리혹
+433,perfumes.note,honey,허니
+434,perfumes.note,honeybush or cyclopia,허니부니 (사이클로피아)
+435,perfumes.note,honeycomb,허니콤
+436,perfumes.note,honeydew blossom,허니듀 블라썸
+437,perfumes.note,honeysuckle,허니서클
+438,perfumes.note,hops,합스
+439,perfumes.note,horchata,홀차타
+440,perfumes.note,horseweed,호스위드
+441,perfumes.note,hortensia,홀텐시아
+442,perfumes.note,hot iron,핫 아이언
+443,perfumes.note,"hoya carnosa, wax plant","호야 카노사, 왁스 플렌트"
+444,perfumes.note,hyacinth,히아신스
+445,perfumes.note,hyraceum,히라슘
+446,perfumes.note,hyssop,히솝
+447,perfumes.note,ice,아이스
+448,perfumes.note,ice cream,아이스 크림
+449,perfumes.note,icing pink,아이싱 핑크
+450,perfumes.note,immortelle,임모텔
+451,perfumes.note,impatiens,임페이션스
+452,perfumes.note,incense,인센스
+453,perfumes.note,incienso,인사이언소
+454,perfumes.note,indian oud,인디안 오드
+455,perfumes.note,indian spices,인디안 스파이시스
+456,perfumes.note,indian woods,인디안 우즈
+457,perfumes.note,indole,인돌레
+458,perfumes.note,industrial glue,언더스트리올 글루
+459,perfumes.note,ink,잉크
+460,perfumes.note,instant film accord,인스턴트 필름 어코드
+461,perfumes.note,iris,아이리스
+462,perfumes.note,"ishpink, ocotea quixos","이쉬핑크, 오코티아 퀵사스"
+463,perfumes.note,iso e super,아이소 에 수퍼
+464,perfumes.note,isobutyl quinoline,이소부틸 퀴놀린
+465,perfumes.note,ivy,아이비
+466,perfumes.note,jabuticaba,자부티카바
+467,perfumes.note,jacaranda,자카란다
+468,perfumes.note,jackfruit,젝프루츠
+469,perfumes.note,jade flower,제이드 플라워
+470,perfumes.note,japanese loquat,제페니즈 로쾃
+471,perfumes.note,japanese pepper,제페니즈 페퍼
+472,perfumes.note,jasmine,자스민
+473,perfumes.note,jasmine orchid,자스민 오키드
+474,perfumes.note,jasmine tea,자스민 티
+475,perfumes.note,jatamansi or spikenard,"자타만시, 스파이크너드"
+476,perfumes.note,javanol,자바놀
+477,perfumes.note,jeans,진스
+478,perfumes.note,jobs tears (yi yi ren),잡스 티어스 (이 이 렌)
+479,perfumes.note,jujube blossom,주주베 블라썸
+480,perfumes.note,juniper,주니퍼
+481,perfumes.note,juniper berries,주니퍼 베리즈
+482,perfumes.note,kadam,카담
+483,perfumes.note,kaffir lime,카피어 라임
+484,perfumes.note,kanuka,카누카
+485,perfumes.note,karo-karounde,카로-카룬드
+486,perfumes.note,katrafay,카트라페이
+487,perfumes.note,katsura leaf,카츠라 리프
+488,perfumes.note,kephalis,케펠리스
+489,perfumes.note,khella,켈라
+490,perfumes.note,kir royal,키르 로얄
+491,perfumes.note,kiwi,키위
+492,perfumes.note,kiwi blossom,키위 블라썸
+493,perfumes.note,kowhai,코하이
+494,perfumes.note,kudzu,커드주
+495,perfumes.note,kulfi,컬피
+496,perfumes.note,kumbaru,컴바루
+497,perfumes.note,kumquat,컴쾃
+498,perfumes.note,labdanum,라다넘
+499,perfumes.note,laburnum,래버넘
+500,perfumes.note,lady of the night flower,레이티 오브 더 나이트 플라워
+501,perfumes.note,lady slipper orchid,레이디 슬리퍼 오키드
+502,perfumes.note,lamduan flower,람 두안 플라워
+503,perfumes.note,laminaria,라미나리아
+504,perfumes.note,lamprocapnos,람프로카프노스
+505,perfumes.note,lantana,란타나
+506,perfumes.note,lantana leaf,란타나 리프
+507,perfumes.note,laotian oud,라오 우드
+508,perfumes.note,larch,라치
+509,perfumes.note,larkspur,락스퍼
+510,perfumes.note,laurel blossom,로렐 블로섬
+511,perfumes.note,lava,라바
+512,perfumes.note,lavender,라벤더
+513,perfumes.note,leather,레더
+514,perfumes.note,leatherwood,레더우드
+515,perfumes.note,lemon,레몬
+516,perfumes.note,lemon balm,레먼 밤
+517,perfumes.note,lemon blossom,레몬 블로섬
+518,perfumes.note,lemon tree,레몬 트리
+519,perfumes.note,lemon verbena,레몬 버베나
+520,perfumes.note,lemon zest,레몬 버비너
+521,perfumes.note,lemonade,레몬에이드
+522,perfumes.note,lemongrass,레몬그라스
+523,perfumes.note,liatris,리아트리스
+524,perfumes.note,lichen,라이컨
+525,perfumes.note,licorice,리커리시
+526,perfumes.note,lilac,라일락
+527,perfumes.note,lily,릴리
+528,perfumes.note,lily of the valley leaves,릴리 오브 더 밸리 리브즈
+529,perfumes.note,lily-of-the-valley,릴리 오브 더 밸리
+530,perfumes.note,lime,라임
+531,perfumes.note,lime (linden) blossom,라임 (린던) 블라섬
+532,perfumes.note,limetta,리메타
+533,perfumes.note,limnophila aromatica,림노필라 아로마티카
+534,perfumes.note,limoncello,리몬 첼로
+535,perfumes.note,linaloe berry,리날로 베리
+536,perfumes.note,linen,리넨
+537,perfumes.note,lingonberry,린곤베리
+538,perfumes.note,lip gloss,립 그로스
+539,perfumes.note,lipstick,립스틱
+540,perfumes.note,liquor,liquor
+541,perfumes.note,litchi,리치
+542,perfumes.note,litsea cubeba,리시 쿠베나
+543,perfumes.note,longan berries,랑건 베리즈
+544,perfumes.note,lorenox,로레녹스
+545,perfumes.note,lotus,로터스
+546,perfumes.note,loukhoum,로쿰
+547,perfumes.note,lovage root,로바지 루트
+548,perfumes.note,lupin,루핀
+549,perfumes.note,lydia broom,리디아 블룸
+550,perfumes.note,macadamia,매커데이미어
+551,perfumes.note,macarons,마카롱
+552,perfumes.note,mace,메이스
+553,perfumes.note,madeira,머디어러
+554,perfumes.note,magnolan,마그놀란
+555,perfumes.note,magnolia,마그놀리아
+556,perfumes.note,mahogany,마호가니
+557,perfumes.note,mahonia,마호니아
+558,perfumes.note,mahonial,마호니알
+559,perfumes.note,mai tai cocktail,마이타이 캌테일
+560,perfumes.note,malt,몰트
+561,perfumes.note,malva,말바
+562,perfumes.note,mandarin orange,만다린 오렌지
+563,perfumes.note,mandarin orange blossom,만다린 오렌지 블라섬
+564,perfumes.note,mandora,만도라
+565,perfumes.note,mango,망고
+566,perfumes.note,mango blossom, 블라섬
+567,perfumes.note,mangosteen,망고스틴
+568,perfumes.note,maninka,마닌카
+569,perfumes.note,manuka,마누카
+570,perfumes.note,maple,메이플
+571,perfumes.note,maple syrup,메이플 시럽
+572,perfumes.note,maraschino cherry,마라스키노 체리
+573,perfumes.note,marian plum,마리안 플럼
+574,perfumes.note,marigold,매리골드
+575,perfumes.note,mariposa lily,마리포사 릴리
+576,perfumes.note,marjoram,마조람
+577,perfumes.note,marmalade,마멀레이드
+578,perfumes.note,marron glace,마론 글래스
+579,perfumes.note,marshmallow,마시멜로우
+580,perfumes.note,martini,마티니
+581,perfumes.note,marzipan,마지팬
+582,perfumes.note,masala chai,마살라 차이
+583,perfumes.note,massoia,마소이아
+584,perfumes.note,mastic or lentisque,렌티스크
+585,perfumes.note,matcha tea,마차 티
+586,perfumes.note,mate,메이트
+587,perfumes.note,mayflower,메이플라워
+588,perfumes.note,meadowsweet,메도스위트
+589,perfumes.note,meat,미트
+590,perfumes.note,melati,멜라티
+591,perfumes.note,melilot or sweet clover,메럴랏
+592,perfumes.note,melilotus,멜리로투스
+593,perfumes.note,melon,멜론
+594,perfumes.note,meringues,머랭
+595,perfumes.note,mesquite wood,메스키트 우드
+596,perfumes.note,metallic notes,메탈릭 노트
+597,perfumes.note,methyl pamplemousse,메탈리 팜플무스
+598,perfumes.note,mignonette,미그넷
+599,perfumes.note,milk,밀크
+600,perfumes.note,milk mousse,밀크 마우스
+601,perfumes.note,mimosa,미모사
+602,perfumes.note,mimusops elengi,미무소프스 에렌기
+603,perfumes.note,mineral notes,미네랄 노트
+604,perfumes.note,mint,민트
+605,perfumes.note,mirabelle,미라벨
+606,perfumes.note,mirabilis,미라빌리스
+607,perfumes.note,mistletoe,미슬토
+608,perfumes.note,mitti attar,미티 애터
+609,perfumes.note,mock orange,목 오렌지
+610,perfumes.note,moepel accord,모에펠 어코드
+611,perfumes.note,mojito,모히토
+612,perfumes.note,molasses,몰레시즈
+613,perfumes.note,molasses,몰레시즈
+614,perfumes.note,monarda,모나르다
+615,perfumes.note,monoi oil,모노이 오일
+616,perfumes.note,mopane,모판
+617,perfumes.note,morning glory flower,모닌글로리 플라워
+618,perfumes.note,motor oil,모터 오일
+619,perfumes.note,mountain air,마운틴 에어
+620,perfumes.note,mugane,무겐
+621,perfumes.note,muhuhu,무후누
+622,perfumes.note,mulberry,멀베리
+623,perfumes.note,mushroom,머쉬룸
+624,perfumes.note,musk,머스크
+625,perfumes.note,mustard seed,머스타드 시드
+626,perfumes.note,myrica,미리카
+627,perfumes.note,myrrh,미르라
+628,perfumes.note,myrtle,미르틀
+629,perfumes.note,nag champa,내그 참파
+630,perfumes.note,narcissus,나르키소스
+631,perfumes.note,nashi pear,나시 피어
+632,perfumes.note,nasturcia,나스투시아
+633,perfumes.note,naturalcalm,네이처캄
+634,perfumes.note,nectarine,넥터린
+635,perfumes.note,nectarine blossom,넥터린 블라섬
+636,perfumes.note,neem,님
+637,perfumes.note,neoprene,니어프린
+638,perfumes.note,nerium oleander,네리움 올린더
+639,perfumes.note,neroli,네럴리
+640,perfumes.note,nettle,네틀
+641,perfumes.note,nigella,나이젤러
+642,perfumes.note,night blooming cereus,나잇 블라섬 시어러스
+643,perfumes.note,night blooming jasmine,나잇 블라섬 자스민
+644,perfumes.note,nootka,누트카
+645,perfumes.note,nougat,누갓
+646,perfumes.note,nutmeg,넛메그
+647,perfumes.note,oak,오크
+648,perfumes.note,oak leaves,오크 리브즈
+649,perfumes.note,oakmoss,오크모스
+650,perfumes.note,oat,오트
+651,perfumes.note,oily notes,오일리 노트
+652,perfumes.note,olibanum (frankincense),올리프밤
+653,perfumes.note,olive,올리브
+654,perfumes.note,olive flower,올리브 플라워
+655,perfumes.note,olive leaf,올리브 리프
+656,perfumes.note,olive tree,올리브 트리
+657,perfumes.note,oolong tea,우롱 티
+658,perfumes.note,opium,오피엄
+659,perfumes.note,opoponax,오포 파낙스
+660,perfumes.note,orange,오렌지
+661,perfumes.note,orange blossom,오렌지 블라섬
+662,perfumes.note,orange cassia tree,오렌지 카시아 트리
+663,perfumes.note,orchard blossom,오처드 블라섬
+664,perfumes.note,orchid,오키드
+665,perfumes.note,orchid cactus,오키드 캑터스
+666,perfumes.note,orchid leaf,오키드 리프
+667,perfumes.note,oregano,오레가노
+668,perfumes.note,oriental notes,오리엔탈 노트
+669,perfumes.note,orris root,오리스 루트
+670,perfumes.note,osmanthus,오스만터스
+671,perfumes.note,oysters,오이스터스
+672,perfumes.note,ozonic notes,오존익 노트
+673,perfumes.note,palisander rosewood,팔리센터 로즈우드
+674,perfumes.note,palm leaf,팜 리프
+675,perfumes.note,palmarosa,팜마로사
+676,perfumes.note,palo santo,팔로 산토
+677,perfumes.note,pandanus,판데너스
+678,perfumes.note,panna cotta,파나 코타
+679,perfumes.note,pansy,판시
+680,perfumes.note,papaya,파파야
+681,perfumes.note,papaya blossom,파파야 블라섬
+682,perfumes.note,paper,페이퍼
+683,perfumes.note,paperbark,페이퍼바크
+684,perfumes.note,papyrus,파피러스
+685,perfumes.note,para-cresyl phenyl acetate,파라-크레실 페닐 아세테이트
+686,perfumes.note,paradisone,파라디소네
+687,perfumes.note,paramela,파라멜라
+688,perfumes.note,parsley,파슬리
+689,perfumes.note,passion flower,패션 플라워
+690,perfumes.note,passionfruit,패션후르츠
+691,perfumes.note,pataqueira,파타쿼이라
+692,perfumes.note,patchouli,파출리
+693,perfumes.note,pea,피
+694,perfumes.note,peach,피치
+695,perfumes.note,peach blossom,피치 블라섬
+696,perfumes.note,peach leaf,피치 리프
+697,perfumes.note,peanut,피넛
+698,perfumes.note,pear,피어
+699,perfumes.note,pear blossom,피어 블라섬
+700,perfumes.note,pear ice cream,피어 아이스크림
+701,perfumes.note,pear leaf,피어 리프
+702,perfumes.note,pear tree,피어 트리
+703,perfumes.note,peat,피트
+704,perfumes.note,pebbles,페블스
+705,perfumes.note,pecan,페이칸
+706,perfumes.note,pelargonium,펠라르고늄
+707,perfumes.note,peony,피어니
+708,perfumes.note,pepper,페퍼
+709,perfumes.note,peppertree,페퍼 트리
+710,perfumes.note,pepperwood or hercules club,페퍼우드
+711,perfumes.note,periwinkle,페리윙클
+712,perfumes.note,persimmon,퍼시몬
+713,perfumes.note,peru balsam,페루 발삼
+714,perfumes.note,petalia,페탈리아
+715,perfumes.note,petitgrain,쁘띠 그레인
+716,perfumes.note,petunia,피튜니아
+717,perfumes.note,phlox,플록스
+718,perfumes.note,pimento,피멘토
+719,perfumes.note,pimento leaf,피멘토 리프
+720,perfumes.note,pimento seeds,피멘토 시드
+721,perfumes.note,pina colada,피냐 콜라다
+722,perfumes.note,pine tree,파인 트리
+723,perfumes.note,pineapple,파인애플
+724,perfumes.note,pineapple blossom,파인애플 블라섬
+725,perfumes.note,pink pepper,핑크 페퍼
+726,perfumes.note,pinot noir grapes,피노 누아르 그레이프
+727,perfumes.note,pistachio,피스타치오
+728,perfumes.note,pitahaya,피타야
+729,perfumes.note,pitanga,피탄가
+730,perfumes.note,pittosporum,피토스포룸
+731,perfumes.note,plastic,플라스틱
+732,perfumes.note,plum,플럼
+733,perfumes.note,plum blossom,플럼 블라섬
+734,perfumes.note,plum tree,플럼 트리
+735,perfumes.note,poinsettia,포인세티아
+736,perfumes.note,pollen,팔런
+737,perfumes.note,polygonum,폴리그넘
+738,perfumes.note,pomarose,포마로즈
+739,perfumes.note,pomegranate,파머그래넛
+740,perfumes.note,pomegranate blossom,파머그래넛 블라섬
+741,perfumes.note,pomelo,포멜로
+742,perfumes.note,popcorn,팝콘
+743,perfumes.note,poplar (populus) buds,파퓰러 버즈
+744,perfumes.note,poppy,퍼피
+745,perfumes.note,port wine,포트 와인
+746,perfumes.note,portulaca or pigweed,포테리카
+747,perfumes.note,powdery notes,파우더리 노트
+748,perfumes.note,praline,프랄린
+749,perfumes.note,primrose,프림로즈
+750,perfumes.note,princess tree (paulownia),프린세스 트리
+751,perfumes.note,priprioca,프리프리오카
+752,perfumes.note,privet,프리빗
+753,perfumes.note,profiterole,프로피트롤
+754,perfumes.note,prosecco,프로세소
+755,perfumes.note,prunella,프루넬라
+756,perfumes.note,pua keni keni (pua-lulu),푸아루루
+757,perfumes.note,pumpkin,펌킨
+758,perfumes.note,punch,펀치
+759,perfumes.note,quince,퀸스
+760,perfumes.note,rain notes,레인 노트
+761,perfumes.note,rainbow sorbet,레인보우 셔벗
+762,perfumes.note,raki,라크
+763,perfumes.note,rambutan,람부탄
+764,perfumes.note,rangoon creeper,랑군 크래퍼
+765,perfumes.note,raspberry,라즈베리
+766,perfumes.note,raspberry blossom,라즈베리 블라섬
+767,perfumes.note,ravenala,라벤아라
+768,perfumes.note,ravensara,라벤사라
+769,perfumes.note,red algae,레드 엘쥐
+770,perfumes.note,red apple,레드 애플
+771,perfumes.note,red berries,레드 배리
+772,perfumes.note,red currant,레드 큐란트
+773,perfumes.note,red fruits,레드 푸르츠
+774,perfumes.note,red willow,레드 윌로우
+775,perfumes.note,red wine,레드 와인
+776,perfumes.note,reed,리드
+777,perfumes.note,reseda,레세다
+778,perfumes.note,resins,레진
+779,perfumes.note,rhododendron,레두잘프
+780,perfumes.note,rhubarb,루바브
+781,perfumes.note,rice,라이스
+782,perfumes.note,rice pudding,라잇 퍼딩
+783,perfumes.note,rooibos red tea,루이보스 레드 티
+784,perfumes.note,rosa rubiginosa,로사 루비기노사
+785,perfumes.note,rose,로즈
+786,perfumes.note,rose hip,로즈 힙
+787,perfumes.note,rose jam,로즈 잼
+788,perfumes.note,rose japanese (hamanasu),로즈 제페니즈
+789,perfumes.note,rose leaf,로즈 리프
+790,perfumes.note,rose mallow,로즈 맬로우
+791,perfumes.note,rose thorn,로즈 트론
+792,perfumes.note,rosebay willowherb,로즈배리 윌로우허브
+793,perfumes.note,rosemary,로즈마리
+794,perfumes.note,rubber,러버
+795,perfumes.note,rue,루
+796,perfumes.note,rum,럼
+797,perfumes.note,rumex,루멕스
+798,perfumes.note,rye,라이
+799,perfumes.note,safflower,새프플라워
+800,perfumes.note,saffron,샤프론
+801,perfumes.note,safraleine,샤프러닌
+802,perfumes.note,sage,세이지
+803,perfumes.note,sainfoins,세인포인
+804,perfumes.note,sake,세이크
+805,perfumes.note,salt,솔트
+806,perfumes.note,saman,사만
+807,perfumes.note,sand,샌드
+808,perfumes.note,sandalwood,샌달우드
+809,perfumes.note,sangria,상글리아
+810,perfumes.note,santolina,산톨리나
+811,perfumes.note,sapodilla,사포딜라
+812,perfumes.note,satin,새틴
+813,perfumes.note,satinwood,새틴우드
+814,perfumes.note,satureja,세투레자
+815,perfumes.note,saw palmetto,소 팔메토
+816,perfumes.note,sea buckthorn,시 벅쏜
+817,perfumes.note,sea shells,시 셸
+818,perfumes.note,sea water,시 워터
+819,perfumes.note,seaweed,시위드
+820,perfumes.note,sequoia,세퀴이아
+821,perfumes.note,sesame,시샘
+822,perfumes.note,shiso,시소
+823,perfumes.note,siam,시암
+824,perfumes.note,sichuan pepper,쓰촨 페퍼
+825,perfumes.note,"sideritis, mountain tea",마운틴 티
+826,perfumes.note,silk,실크
+827,perfumes.note,silk tree blossom,실크 트리 블라섬
+828,perfumes.note,silk vine or milk broom,리크 바인
+829,perfumes.note,skin,스킨
+830,perfumes.note,skunk cabbage,스컹키 캐비지
+831,perfumes.note,slate,슬래이트
+832,perfumes.note,smoke,스모크
+833,perfumes.note,snake plant,스네이크 플랜트
+834,perfumes.note,snow,스노우
+835,perfumes.note,snowberry,스노우베리
+836,perfumes.note,snowdrops,스노우드롭
+837,perfumes.note,sodium silicate,소디엄 실리게이트
+838,perfumes.note,solar notes,솔라 노트
+839,perfumes.note,solomon`s seal,솔로몬 실
+840,perfumes.note,sorbet,소벳
+841,perfumes.note,sour cherry,사워 체리
+842,perfumes.note,sour cherry blossom,사워 체리 블라섬
+843,perfumes.note,soursop,사워삽
+844,perfumes.note,soybean,소이빈
+845,perfumes.note,spanish broom,스패니쉬 브룸
+846,perfumes.note,spicy notes,스파이시 노트
+847,perfumes.note,spinach,스피나치
+848,perfumes.note,spiraea,스피레아
+849,perfumes.note,spray paint,스프레이 플랜드
+850,perfumes.note,spruce,스푸르스
+851,perfumes.note,spun sugar,스푼 슈거
+852,perfumes.note,squash,스쿼시
+853,perfumes.note,st. john's wort,세인트 존스 워터
+854,perfumes.note,star anise,스타아니스
+855,perfumes.note,star apple,스타 애플
+856,perfumes.note,starfish,스타피쉬
+857,perfumes.note,stephanotis,스테파노티스
+858,perfumes.note,strawberry,스트로베리
+859,perfumes.note,strawberry leaf,스트로베리 리프
+860,perfumes.note,strawberry syrup,스트로베리 시럽
+861,perfumes.note,strelitzia,스트렐리치아
+862,perfumes.note,strobilanthes callosus,스트로빌란테스 캘로서스
+863,perfumes.note,styrax,스트락스
+864,perfumes.note,suede,스웨이드
+865,perfumes.note,sugar,슈가
+866,perfumes.note,sumac,수막
+867,perfumes.note,sundew,선듀
+868,perfumes.note,sunflower,선플라워
+869,perfumes.note,suntan lotion,선탠 로션
+870,perfumes.note,surf wax,서프 왁스
+871,perfumes.note,sweet grass,스위트 그래스
+872,perfumes.note,sweet pea,스위트 피
+873,perfumes.note,sycamore,사카모어
+874,perfumes.note,sylkolide,실콜라이드
+875,perfumes.note,syringa,시링가
+876,perfumes.note,syrup,시럽
+877,perfumes.note,taif rose,타이프 로즈
+878,perfumes.note,takamaka,타카마카
+879,perfumes.note,talc,탈크
+880,perfumes.note,tamarind,타마린드
+881,perfumes.note,tamarisk,타마리스크
+882,perfumes.note,tangelo,탄젤로
+883,perfumes.note,tangerine,탄젤린
+884,perfumes.note,tangerine blossom,탄젤린 블라섬
+885,perfumes.note,tansy,탠지
+886,perfumes.note,tarragon,타라곤
+887,perfumes.note,tayberry,테이베리
+888,perfumes.note,tea,티
+889,perfumes.note,tea tree oil,티 트리 오일
+890,perfumes.note,teak wood,티크 우드
+891,perfumes.note,tennis ball,테니스 볼
+892,perfumes.note,tequila,테킬라
+893,perfumes.note,thailand oud,타일랜드 우드
+894,perfumes.note,thistle,씨슬
+895,perfumes.note,thuja,슈저
+896,perfumes.note,thyme,타임
+897,perfumes.note,ti leaf (cordilyne),코르딜리네
+898,perfumes.note,tiare flower,티아레 플라워
+899,perfumes.note,tiramisu,티라미수
+900,perfumes.note,tobacco,토바코
+901,perfumes.note,tobacco blossom,토바코 블라섬
+902,perfumes.note,toffee,토피
+903,perfumes.note,tokaji wine,토카지 와인
+904,perfumes.note,tolu balsam,토루 리프
+905,perfumes.note,tomato,토마토
+906,perfumes.note,tomato leaf,토마토 리프
+907,perfumes.note,tonic water,토닉 워터
+908,perfumes.note,tonka bean,톤카 빈
+909,perfumes.note,toscanol,토스카놀
+910,perfumes.note,trillium,트릴리움
+911,perfumes.note,tropical fruits,트로피카 푸르츠
+912,perfumes.note,truffle,트러플
+913,perfumes.note,tuberose,터브로즈
+914,perfumes.note,tulip,튤립
+915,perfumes.note,tulle accord,툴레 어코드
+916,perfumes.note,tulsi,튤시
+917,perfumes.note,turnera diffusa (damiana),다미아나
+918,perfumes.note,umbu-caja | tapereba,타페레바
+919,perfumes.note,valerian,발레리안
+920,perfumes.note,vanilla,바닐라
+921,perfumes.note,varnish accord,바니쉬 어코드
+922,perfumes.note,velvet,벨벳
+923,perfumes.note,vermouth,베르무트
+924,perfumes.note,vetiver,베티버
+925,perfumes.note,vine,바인
+926,perfumes.note,vinyl,빈일
+927,perfumes.note,violet,바이올렛
+928,perfumes.note,violet leaf,바이올렛 리프
+929,perfumes.note,violet woodsorrel,바이올렛 우두소렐
+930,perfumes.note,vodka,보드카
+931,perfumes.note,wallflower,월프 플라워
+932,perfumes.note,walnut,월넛
+933,perfumes.note,wan sao lhong,완 사오 롱
+934,perfumes.note,wasabi,와사비
+935,perfumes.note,water,워터
+936,perfumes.note,water fruit,워터 푸르츠
+937,perfumes.note,water hyacinth,워터 히아신스
+938,perfumes.note,water lily,워터 릴리
+939,perfumes.note,water pepper,워터 페퍼
+940,perfumes.note,watermelon,워터멜론
+941,perfumes.note,west indian bay,웨스트 인디안 베이
+942,perfumes.note,wet plaster,웻 플래스터
+943,perfumes.note,wheat,위트
+944,perfumes.note,whiskey,위스키
+945,perfumes.note,white chocolate,화이트 초콜릿
+946,perfumes.note,white currant,화이트 커런트
+947,perfumes.note,white flowers,화이트 플라워
+948,perfumes.note,white ginger lily,화이트 진저 릴리
+949,perfumes.note,white oud,화이트 오드
+950,perfumes.note,white tobacco,화이트 토바코
+951,perfumes.note,white willow,화이트 윌로우
+952,perfumes.note,white wine,화이트 와인
+953,perfumes.note,wild strawberry,와일드 스트로베리
+954,perfumes.note,wildflowers,와일드 플라워
+955,perfumes.note,wine lees,와인 리스
+956,perfumes.note,winterberry,윈터베리
+957,perfumes.note,wisteria,위스테리아
+958,perfumes.note,wolfberry,울프베리
+959,perfumes.note,woody notes,우드 노트
+960,perfumes.note,woody zion,우디 시온
+961,perfumes.note,wool,울
+962,perfumes.note,wormwood,웜우드
+963,perfumes.note,wrightia,라이티아
+964,perfumes.note,yarrow,얘로
+965,perfumes.note,yellow cherry,애로 체리
+966,perfumes.note,ylang-ylang,일랑-일랑
+967,perfumes.note,yogurt,요거트
+968,perfumes.note,yohimbe,요힘베
+969,perfumes.note,yumberry,염베리
+970,perfumes.note,yunnan red tea,원난 레드 티
+971,perfumes.note,yuzu,유즈
+972,perfumes.note,yuzu flower,유즈 플라워
+973,perfumes.note,zinnia,진니아

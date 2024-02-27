@@ -1,0 +1,4 @@
+,pk,model,name,thumbnail,gender,top_notes,heart_notes,base_notes,seasons,availability,brand,categories,price
+6086,26148931,perfumes.perfume,Puro,26148931.jpg,0,[624],"[26, 193]",[624],"[3, 4]",True,1877,"[8, 10]",77.72
+5255,26145605,perfumes.perfume,Sea Musk,26145605.jpg,0,[624],"[7, 624, 920]",[624],"[3, 4]",True,30,"[6, 8, 10]",13.98
+5447,26146195,perfumes.perfume,Amber Musc,26146195.jpg,0,"[624, 785]",[26],"[26, 193, 624]","[3, 4]",True,102,[10],33.95

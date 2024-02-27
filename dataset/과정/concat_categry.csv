@@ -1,0 +1,13 @@
+pk,model,name
+1,perfumes.category,citrus_smells
+2,perfumes.category,fruits_vegetables_and_nuts
+3,perfumes.category,flowers
+4,perfumes.category,white_flowers
+5,perfumes.category,greens_herbs_and_fougeres
+6,perfumes.category,spices
+7,perfumes.category,sweets_and_gourmand_smells
+8,perfumes.category,woods_and_mosses
+9,perfumes.category,resins_and_balsams
+10,perfumes.category,musk_amber_animalic_smells
+11,perfumes.category,beverages
+12,perfumes.category,netural_and_synthetic_popular_and_weird

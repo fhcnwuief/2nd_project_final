@@ -1,0 +1,970 @@
+,notes,note_idx
+0,bergamot,96
+1,bitter orange,101
+2,blood orange,114
+3,calamansi,155
+4,chinotto,213
+5,citron,226
+6,citruses,227
+7,clementine,233
+8,finger lime,346
+9,grapefruit,388
+10,hassaku,411
+11,hatkora lemon,412
+12,kaffir lime,483
+13,kumquat,497
+14,lemon,515
+15,lemon balm,516
+16,lemon tree,518
+17,lemon verbena,519
+18,lemon zest,520
+19,lemongrass,522
+20,lime,530
+21,limetta,532
+22,litsea cubeba,542
+23,mandarin orange,562
+24,mandora,564
+25,methyl pamplemousse,597
+26,neroli,639
+27,orange,660
+28,petitgrain,715
+29,pomelo,741
+30,tangelo,882
+31,tangerine,883
+32,yuzu,971
+33,acai berry,3
+34,acerola,4
+35,almond,16
+36,apple,45
+37,apple juice,47
+38,apple pulp,49
+39,apricot,51
+40,arctic bramble,56
+41,argan,57
+42,banana,75
+43,bearberry,86
+44,beetroot,90
+45,black currant,102
+46,blackberry,108
+47,blackthorn,111
+48,blueberry,118
+49,boysenberry,125
+50,brazil nut,127
+51,carambola (star fruit),174
+52,carrot,183
+53,cashew,186
+54,cassowary fruit,190
+55,cepes,198
+56,chayote,204
+57,cherimoya,206
+58,cherry,207
+59,chestnut,209
+60,cloudberry,234
+61,coconut,245
+62,corn silk,262
+63,cranberry,272
+64,cucumber,281
+65,"cupuacu, cupuassu, copoasu",284
+66,currant leaf and bud,287
+67,cyperus scariosus,291
+68,dewberry,308
+69,dried apple crisp,314
+70,dried apricot,315
+71,dried fruits,317
+72,fig,343
+73,fig leaf,344
+74,forest fruits,354
+75,frosted berries,360
+76,fruity notes,362
+77,goji berries,382
+78,gooseberry,384
+79,grape seed,387
+80,grapes,390
+81,greengage,399
+82,ground cherry,402
+83,guarana,405
+84,guava,406
+85,hazelnut,416
+86,jabuticaba,466
+87,jackfruit,468
+88,japanese loquat,470
+89,jobs tears (yi yi ren),478
+90,kiwi,491
+91,kumbaru,496
+92,lingonberry,537
+93,litchi,541
+94,longan berries,543
+95,macadamia,550
+96,malt,560
+97,mango,565
+98,mangosteen,567
+99,maninka,568
+100,marian plum,573
+101,melon,593
+102,mirabelle,605
+103,mulberry,622
+104,mushroom,623
+105,nashi pear,631
+106,nectarine,634
+107,olive,653
+108,papaya,680
+109,passionfruit,690
+110,pea,693
+111,peach,694
+112,peanut,697
+113,pear,698
+114,pecan,705
+115,persimmon,712
+116,pineapple,723
+117,pinot noir grapes,726
+118,pistachio,727
+119,pitahaya,728
+120,pitanga,729
+121,plum,732
+122,pomegranate,739
+123,pumpkin,757
+124,quince,759
+125,rambutan,763
+126,raspberry,765
+127,red apple,770
+128,red berries,771
+129,red currant,772
+130,red fruits,773
+131,rhubarb,780
+132,sapodilla,811
+133,sea buckthorn,816
+134,snowberry,835
+135,sour cherry,841
+136,soursop,843
+137,soybean,844
+138,squash,852
+139,star apple,855
+140,strawberry,858
+141,tayberry,887
+142,tomato,905
+143,tropical fruits,911
+144,umbu-caja | tapereba,918
+145,walnut,932
+146,water fruit,936
+147,watermelon,940
+148,white currant,946
+149,wild strawberry,953
+150,winterberry,956
+151,wolfberry,958
+152,yellow cherry,965
+153,yumberry,969
+154,acacia,2
+155,acerola blossom,5
+156,aglaia,10
+157,almond blossom,17
+158,alumroot,21
+159,alyssum,22
+160,amarillys,25
+161,anemone,40
+162,angel's trumpet,41
+163,apple blossom,46
+164,apricot blossom,52
+165,ashoka flower,64
+166,banana flower,76
+167,barberry,79
+168,belladona,92
+169,bellflower,93
+170,bergamot blossom,97
+171,black currant blossom,103
+172,blackberry blossom,109
+173,blue lilies,115
+174,blue poppy,117
+175,bougainvillea,123
+176,bread flower,130
+177,bromelia,134
+178,buddleia,140
+179,butomus umbellatus,145
+180,buttercup,147
+181,camellia,161
+182,cannonball flower,171
+183,carambola blossom,175
+184,carnation,180
+185,celosia,196
+186,chamomile,201
+187,champaca,202
+188,cherry blossom,208
+189,chimonanthus or wintersweet,210
+190,china rose,211
+191,chinotto blossom,214
+192,chocolate flower,216
+193,christmas tree or flame tree,220
+194,chrysanthemum,221
+195,clematis,232
+196,clover,236
+197,coffee blossom,248
+198,"cornflower, sultan seeds",263
+199,cosmos flower,266
+200,costus,267
+201,cotton flower,269
+202,crinum lily,277
+203,cyclamen,290
+204,dahlia,294
+205,daisy,297
+206,dandelion,298
+207,daphne,299
+208,deadnettle,304
+209,delonix,305
+210,desert rose,306
+211,dianthus,309
+212,dove tree,312
+213,dried rose,318
+214,dyer's greenweed,322
+215,edelweiss,328
+216,eglantine rose,329
+217,elderflower,330
+218,encian,333
+219,english marigold,334
+220,field scabious,342
+221,flamingo flower (anthurium),350
+222,flax,351
+223,floral notes,353
+224,forget me not,355
+225,fragonia,356
+226,freesia,358
+227,fuchsia,363
+228,geranium,372
+229,gerbera,373
+230,gladiolus,380
+231,goldenrod,383
+232,gorse,385
+233,green nard,394
+234,green tea flower,398
+235,guava blossom,407
+236,hawthorn,413
+237,hazel blossom,415
+238,heather,419
+239,heliotrope,421
+240,hellabore flower,422
+241,hemlock,423
+242,hibiscus,426
+243,hoary stock,430
+244,holly flower,431
+245,hollyhock,432
+246,honeybush or cyclopia,434
+247,honeydew blossom,436
+248,hortensia,441
+249,"hoya carnosa, wax plant",443
+250,hyacinth,444
+251,hyssop,446
+252,impatiens,451
+253,iris,461
+254,jacaranda,467
+255,jade flower,469
+256,jasmine orchid,473
+257,jujube blossom,479
+258,kadam,482
+259,kanuka,484
+260,kiwi blossom,492
+261,kudzu,494
+262,laburnum,499
+263,lady of the night flower,500
+264,lady slipper orchid,501
+265,lamduan flower,502
+266,lamprocapnos,504
+267,lantana,505
+268,larkspur,509
+269,laurel blossom,510
+270,lavender,512
+271,leatherwood,514
+272,liatris,523
+273,lilac,526
+274,lily-of-the-valley,529
+275,lime (linden) blossom,531
+276,lotus,545
+277,lupin,548
+278,lydia broom,549
+279,magnolia,555
+280,malva,561
+281,mango blossom,566
+282,mariposa lily,575
+283,mayflower,587
+284,meadowsweet,588
+285,melilotus,592
+286,mignonette,598
+287,mimosa,601
+288,mimusops elengi,602
+289,mirabilis,606
+290,monarda,614
+291,monoi oil,615
+292,morning glory flower,617
+293,myrtle,628
+294,narcissus,630
+295,nasturcia,632
+296,nectarine blossom,635
+297,nerium oleander,638
+298,night blooming jasmine,643
+299,olive flower,654
+300,opium,658
+301,orange cassia tree,662
+302,orchard blossom,663
+303,orchid,664
+304,orchid cactus,665
+305,orris root,669
+306,osmanthus,670
+307,pansy,679
+308,papaya blossom,681
+309,paramela,687
+310,passion flower,689
+311,pataqueira,691
+312,peach blossom,695
+313,pear blossom,699
+314,pelargonium,706
+315,peony,707
+316,periwinkle,711
+317,petunia,716
+318,phlox,717
+319,pineapple blossom,724
+320,pittosporum,730
+321,plum blossom,733
+322,poinsettia,735
+323,pomegranate blossom,740
+324,poppy,744
+325,primrose,749
+326,princess tree (paulownia),750
+327,privet,752
+328,prunella,755
+329,rangoon creeper,764
+330,raspberry blossom,766
+331,reseda,777
+332,rhododendron,779
+333,rosa rubiginosa,784
+334,rose,785
+335,rose hip,786
+336,rose japanese (hamanasu),788
+337,rose mallow,790
+338,rosebay willowherb,792
+339,safflower,799
+340,sainfoins,803
+341,santolina,810
+342,silk tree blossom,827
+343,snowdrops,836
+344,solomon`s seal,839
+345,sour cherry blossom,842
+346,spanish broom,845
+347,spiraea,848
+348,st. john's wort,853
+349,strelitzia,861
+350,strobilanthes callosus,862
+351,sunflower,868
+352,sweet pea,872
+353,taif rose,877
+354,tamarisk,881
+355,tobacco blossom,901
+356,trillium,910
+357,tulip,914
+358,violet,927
+359,violet woodsorrel,929
+360,wallflower,931
+361,water hyacinth,937
+362,water lily,938
+363,white ginger lily,948
+364,wildflowers,954
+365,wisteria,957
+366,wrightia,963
+367,ylang-ylang,966
+368,yuzu flower,972
+369,zinnia,973
+370,arum lily,61
+371,black locust,106
+372,boronia,122
+373,carissa,179
+374,datura,302
+375,frangipani,357
+376,gardenia,367
+377,grapefruit blossom,389
+378,honeysuckle,437
+379,jasmine,472
+380,karo-karounde,485
+381,lemon blossom,517
+382,lily,527
+383,mandarin orange blossom,563
+384,melati,590
+385,mock orange,609
+386,night blooming cereus,642
+387,orange blossom,661
+388,stephanotis,857
+389,syringa,875
+390,tangerine blossom,884
+391,tiare flower,898
+392,tuberose,913
+393,white flowers,947
+394,white tobacco,950
+395,agave,8
+396,algae,14
+397,aloe vera,19
+398,ammophila (beach grass),37
+399,angelica,42
+400,apple mint,48
+401,arnica,59
+402,artemisia,60
+403,asparagus,65
+404,avocado,69
+405,azolla (water fern),70
+406,banana leaf,77
+407,barley,81
+408,basil,82
+409,bay essence,83
+410,black currant leaf,104
+411,blackberry leaf,110
+412,borage,120
+413,borneol,121
+414,bran,126
+415,buchu or agathosma,138
+416,bulrush,141
+417,burdock,142
+418,cactus,152
+419,calamus,156
+420,calycanthus,158
+421,cannabis,170
+422,carnation leaves,181
+423,celery,194
+424,celery seeds,195
+425,centella asiatica,197
+426,chive,215
+427,cilantro,223
+428,clary sage,229
+429,coca,242
+430,creosote bush,276
+431,crithmum,278
+432,davana,303
+433,dried fallen leaves,316
+434,earl grey tea,323
+435,fern,341
+436,galbanum,366
+437,genmaicha,370
+438,ginkgo,378
+439,ginseng,379
+440,grape leaves,386
+441,grass,392
+442,green notes,395
+443,green pepper,396
+444,green sap,397
+445,gromwell,401
+446,guao or maiden plum,404
+447,hay,414
+448,henna,424
+449,hops,438
+450,horseweed,440
+451,immortelle,450
+452,ivy,465
+453,jatamansi or spikenard,475
+454,juniper,480
+455,juniper berries,481
+456,katrafay,486
+457,katsura leaf,487
+458,khella,489
+459,laminaria,503
+460,lantana leaf,506
+461,lily of the valley leaves,528
+462,limnophila aromatica,533
+463,linaloe berry,535
+464,lovage root,547
+465,mahonia,557
+466,marigold,574
+467,marjoram,576
+468,matcha tea,585
+469,mate,586
+470,melilot or sweet clover,591
+471,mint,604
+472,mistletoe,607
+473,nettle,640
+474,oak leaves,648
+475,oat,650
+476,olive leaf,655
+477,oolong tea,657
+478,orchid leaf,666
+479,oregano,667
+480,palm leaf,674
+481,palmarosa,675
+482,pandanus,677
+483,parsley,688
+484,peach leaf,696
+485,pear leaf,701
+486,polygonum,737
+487,portulaca or pigweed,746
+488,red algae,769
+489,reed,776
+490,rice,781
+491,rooibos red tea,783
+492,rose leaf,789
+493,rose thorn,791
+494,rosemary,793
+495,rue,795
+496,rumex,797
+497,rye,798
+498,sage,802
+499,satureja,814
+500,saw palmetto,815
+501,seaweed,819
+502,shiso,822
+503,"sideritis, mountain tea",825
+504,silk vine or milk broom,828
+505,skunk cabbage,830
+506,snake plant,833
+507,spinach,847
+508,strawberry leaf,859
+509,sundew,867
+510,sweet grass,871
+511,tansy,885
+512,tarragon,886
+513,tea,888
+514,thistle,894
+515,thyme,896
+516,ti leaf (cordilyne),897
+517,tobacco,900
+518,tomato leaf,906
+519,tulsi,916
+520,valerian,919
+521,vine,925
+522,violet leaf,928
+523,wheat,943
+524,wormwood,962
+525,yarrow,964
+526,yunnan red tea,970
+527,allspice,15
+528,anise,44
+529,asafoetida,62
+530,bay leaf,84
+531,cacao pod,151
+532,caraway,177
+533,cardamom,178
+534,cassia,189
+535,chutney,222
+536,cinnamon,224
+537,cinnamon leaf,225
+538,clove leaf,235
+539,cloves,237
+540,coffee,247
+541,coriander,259
+542,cubeb or tailed pepper,280
+543,cumin,282
+544,curcuma (turmeric),286
+545,curry tree,288
+546,dill,310
+547,fennel,339
+548,fenugreek,340
+549,galanga,364
+550,ginger,376
+551,indian spices,455
+552,japanese pepper,471
+553,licorice,525
+554,mace,552
+555,mustard seed,625
+556,nigella,641
+557,nutmeg,646
+558,oily notes,651
+559,oriental notes,668
+560,pepper,708
+561,peppertree,709
+562,pimento,718
+563,pimento leaf,719
+564,pimento seeds,720
+565,pink pepper,725
+566,priprioca,751
+567,saffron,800
+568,safraleine,801
+569,sesame,821
+570,sichuan pepper,824
+571,spicy notes,846
+572,star anise,854
+573,sumac,866
+574,tamarind,880
+575,tonka bean,908
+576,toscanol,909
+577,vanilla,920
+578,wan sao lhong,933
+579,wasabi,934
+580,water pepper,939
+581,west indian bay,941
+582,acetyl furan,6
+583,agave nectar,9
+584,biscuit,100
+585,bread,129
+586,brioche,133
+587,brown sugar,136
+588,bubble gum,137
+589,butter,146
+590,butterscotch,148
+591,candied fruits,165
+592,candied ginger,166
+593,candied orange,167
+594,candies,168
+595,canele,169
+596,caramel,176
+597,coconut pie,246
+598,cookie,253
+599,cotton candy,268
+600,cream,273
+601,creme brulee,275
+602,croissant,279
+603,cupcake,283
+604,custard,289
+605,dark chocolate,300
+606,dates,301
+607,dulce de leche,321
+608,french pastries,359
+609,frosting [glace],361
+610,gianduia,374
+611,gingerbread,377
+612,halva,410
+613,hazelnut cocoa spread,417
+614,honey,433
+615,honeycomb,435
+616,horchata,439
+617,ice cream,448
+618,icing pink,449
+619,kulfi,495
+620,loukhoum,546
+621,macarons,551
+622,maple syrup,571
+623,maraschino cherry,572
+624,marmalade,577
+625,marron glace,578
+626,marshmallow,579
+627,marzipan,581
+628,meringues,594
+629,milk mousse,600
+630,molasses,613
+631,nougat,645
+632,panna cotta,678
+633,pear ice cream,700
+634,popcorn,742
+635,praline,748
+636,profiterole,753
+637,rainbow sorbet,761
+638,rice pudding,782
+639,rose jam,787
+640,sorbet,840
+641,spun sugar,851
+642,strawberry syrup,860
+643,sugar,865
+644,tiramisu,899
+645,toffee,902
+646,white chocolate,945
+647,yogurt,967
+648,agarwood (oud),7
+649,akigalawood,11
+650,alder,13
+651,almond tree,18
+652,amaranth,23
+653,amyris,39
+654,apple tree,50
+655,araucaria,54
+656,"arbutus (madrona, bearberry tree)",55
+657,argan tree,58
+658,aspen,66
+659,bamboo,74
+660,baobab,78
+661,bark,80
+662,beech,87
+663,belambra tree,91
+664,birch,98
+665,black hemlock or tsuga,105
+666,black spruce,107
+667,blackwood,112
+668,brazilian rosewood,128
+669,buddha wood,139
+670,buxus,149
+671,cabreuva,150
+672,cambodian oud,160
+673,canadian balsam,164
+674,carob tree,182
+675,cashmir wood,188
+676,cedar,193
+677,chalood bark,200
+678,clearwood,231
+679,cocobolo,244
+680,coffee tree,249
+681,cork,261
+682,cottonwood (poplar),270
+683,cypress,292
+684,cypriol oil or nagarmotha,293
+685,driftwood,319
+686,dry wood,320
+687,ebony tree,327
+688,eucalyptus,336
+689,fig tree,345
+690,fir,347
+691,grass tree,393
+692,guaiac wood,403
+693,hinoki wood,428
+694,ho wood,429
+695,incienso,453
+696,indian oud,454
+697,indian woods,456
+698,"ishpink, ocotea quixos",462
+699,kowhai,493
+700,laotian oud,507
+701,larch,508
+702,lichen,524
+703,mahogany,556
+704,manuka,569
+705,maple,570
+706,massoia,583
+707,mesquite wood,595
+708,moepel accord,610
+709,muhuhu,621
+710,neem,636
+711,nootka,644
+712,oak,647
+713,oakmoss,649
+714,olive tree,656
+715,palisander rosewood,673
+716,palo santo,676
+717,paperbark,683
+718,papyrus,684
+719,patchouli,692
+720,pear tree,702
+721,pepperwood or hercules club,710
+722,pine tree,722
+723,plum tree,734
+724,pua keni keni (pua-lulu),756
+725,ravenala,767
+726,ravensara,768
+727,red willow,774
+728,saman,806
+729,sandalwood,808
+730,satinwood,813
+731,sequoia,820
+732,siam,823
+733,spruce,850
+734,sycamore,873
+735,takamaka,878
+736,teak wood,890
+737,thailand oud,893
+738,thuja,895
+739,turnera diffusa (damiana),917
+740,vetiver,924
+741,white oud,949
+742,white willow,951
+743,woody notes,959
+744,woody zion,960
+745,yohimbe,968
+746,amberwood,30
+747,balsamic vinegar,73
+748,benzoin,95
+749,birch tar,99
+750,breu-branco,131
+751,bushman candle,144
+752,cade oil,153
+753,choya loban,217
+754,choya nakh,218
+755,choya ral,219
+756,coal tar,240
+757,copahu balm,254
+758,copaiba balm,255
+759,copal,256
+760,dragon blood resin,313
+761,elemi,331
+762,gurjun balsam,409
+763,incense,452
+764,labdanum,498
+765,mastic or lentisque,584
+766,mopane,616
+767,myrica,626
+768,myrrh,627
+769,nag champa,629
+770,olibanum (frankincense),652
+771,opoponax,659
+772,peru balsam,713
+773,poplar (populus) buds,743
+774,resins,778
+775,rubber,794
+776,styrax,863
+777,surf wax,870
+778,tea tree oil,889
+779,amber,26
+780,amber xtreme,27
+781,ambergris,28
+782,ambertonic (iff),29
+783,ambrarome,31
+784,ambretone,32
+785,ambrette (musk mallow),33
+786,ambrettolide,34
+787,ambrocenide (symrise),35
+788,ambroxan,36
+789,animal notes,43
+790,aspic,68
+791,bacon,71
+792,bbq,85
+793,beeswax,89
+794,carrot seeds,184
+795,castoreum,191
+796,caviar,192
+797,cetalox,199
+798,cheese,205
+799,civet,228
+800,coral reef,257
+801,daim,295
+802,genet,369
+803,goat hair,381
+804,hyraceum,445
+805,kephalis,488
+806,leather,513
+807,meat,589
+808,milk,599
+809,musk,624
+810,oysters,671
+811,sea shells,817
+812,skin,829
+813,starfish,856
+814,suede,864
+815,sylkolide,874
+816,tolu balsam,904
+817,truffle,912
+818,absinthe,1
+819,amaretto,24
+820,baileys irish cream,72
+821,beerale,88
+822,bellini,94
+823,blue margarita,116
+824,bourbon whiskey,124
+825,caipirinha,154
+826,campari,162
+827,cappuccino,173
+828,champagne,203
+829,coca-cola,243
+830,cognac,251
+831,cosmopolitan cocktail,265
+832,cream soda,274
+833,curacao,285
+834,daiquiri,296
+835,eau de vie,326
+836,gin,375
+837,grenadine,400
+838,hi-fi,425
+839,jasmine tea,474
+840,kir royal,490
+841,lemonade,521
+842,limoncello,534
+843,liquor,540
+844,madeira,553
+845,mai tai cocktail,559
+846,martini,580
+847,masala chai,582
+848,mojito,611
+849,pina colada,721
+850,port wine,745
+851,prosecco,754
+852,punch,758
+853,raki,762
+854,red wine,775
+855,rum,796
+856,sake,804
+857,sangria,809
+858,syrup,876
+859,tequila,892
+860,tokaji wine,903
+861,tonic water,907
+862,vermouth,923
+863,vodka,930
+864,whiskey,944
+865,white wine,952
+866,wine lees,955
+867,aldehydes,12
+868,aluminum,20
+869,amyl salicylate,38
+870,aquozone,53
+871,ash,63
+872,asphalt,67
+873,blood,113
+874,boisiris,119
+875,brick,132
+876,brown scotch tape,135
+877,burnt match,143
+878,calone,157
+879,calypsone,159
+880,camphor,163
+881,caoutchouc,172
+882,cascalone,185
+883,cashmeran,187
+884,clay,230
+885,co2 extracts,238
+886,coal,239
+887,cobblestone,241
+888,concrete,252
+889,coranol,258
+890,cosmone,264
+891,coumarin,271
+892,dew drop,307
+893,dodecanal,311
+894,earth tincture,324
+895,earthy notes,325
+896,ember,332
+897,ethyl maltol,335
+898,eugenol,337
+899,fabric,338
+900,fire,348
+901,fish,349
+902,flint,352
+903,galaxolide,365
+904,gasoline,368
+905,geosmin,371
+906,graphite,391
+907,gunpowder,408
+908,head space waterfall,418
+909,hedione,420
+910,hina,427
+911,hot iron,442
+912,ice,447
+913,indole,457
+914,industrial glue,458
+915,ink,459
+916,instant film accord,460
+917,iso e super,463
+918,isobutyl quinoline,464
+919,javanol,476
+920,jeans,477
+921,lava,511
+922,linen,536
+923,lip gloss,538
+924,lipstick,539
+925,lorenox,544
+926,magnolan,554
+927,mahonial,558
+928,metallic notes,596
+929,mineral notes,603
+930,mitti attar,608
+931,motor oil,618
+932,mountain air,619
+933,mugane,620
+934,naturalcalm,633
+935,neoprene,637
+936,ozonic notes,672
+937,paper,682
+938,para-cresyl phenyl acetate,685
+939,paradisone,686
+940,peat,703
+941,pebbles,704
+942,petalia,714
+943,plastic,731
+944,pollen,736
+945,pomarose,738
+946,powdery notes,747
+947,rain notes,760
+948,salt,805
+949,sand,807
+950,satin,812
+951,sea water,818
+952,silk,826
+953,slate,831
+954,smoke,832
+955,snow,834
+956,sodium silicate,837
+957,solar notes,838
+958,spray paint,849
+959,suntan lotion,869
+960,talc,879
+961,tennis ball,891
+962,tulle accord,915
+963,varnish accord,921
+964,velvet,922
+965,vinyl,926
+966,water,935
+967,wet plaster,942
+968,wool,961

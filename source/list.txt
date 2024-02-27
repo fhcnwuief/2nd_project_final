@@ -1,0 +1,13 @@
+name
+citrus_smells
+fruits_vegetables_and_nuts
+flowers
+white_flowers
+greens_herbs_and_fougeres
+spices
+sweets_and_gourmand_smells
+woods_and_mosses
+resins_and_balsams
+musk_amber_animalic_smells
+beverages
+netural_and_synthetic_popular_and_weird
