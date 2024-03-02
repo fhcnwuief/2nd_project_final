@@ -23,6 +23,9 @@
 
 
 ### 실행시키려면
+1. final_front_streamlit 폴더로 이동
+2. 코드 작성
 ```python
   python -m streamilt run ui.py
 ```
+
